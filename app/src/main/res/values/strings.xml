@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quote_of_the_day</string>
+
+    <string name="favorite_button">Mark as Favorite</string>
+    <string name="all_favorites_button">All Favorites</string>
+    <string name="share_button">Share</string>
+    <string name="no_favorites_text">You have not marked any quotes as favorites yet.</string>
+</resources>
